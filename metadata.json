@@ -1,0 +1,6 @@
+{
+  "name": "ABTalks",
+  "description": "60-day coding challenge platform for Indian college students to build, prove, and stand out.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
